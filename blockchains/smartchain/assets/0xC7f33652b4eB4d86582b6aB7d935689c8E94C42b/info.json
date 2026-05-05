@@ -1,7 +1,7 @@
 {
     "name": "BNB",
     "website": "https://www.bnbchain.org/",
-    "description": "BNB is the native asset of BNB Chain, formerly Binance Smart Chain, used for gas, staking, and ecosystem utility.",
+    "description": "A BEP20 token named BNB listed on BNB Smart Chain.",
     "explorer": "https://bscscan.com/token/0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
     "type": "BEP20",
     "symbol": "BNB",
