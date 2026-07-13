@@ -1,4 +1,14 @@
 {
+  "name": "BNB",
+  "symbol": "BNB",
+  "network": "BNB Smart Chain Mainnet",
+  "chainId": 56,
+  "address": "0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
+  "verified": true,
+  "explorer": "https://bscscan.com/address/0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b"
+}
+
+{
     "name": "BNB",
     "website": "https://www.bnbchain.org/",
     "description": "A BEP20 token named BNB listed on BNB Smart Chain.",
