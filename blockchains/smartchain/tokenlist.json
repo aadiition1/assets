@@ -3,15 +3,15 @@
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
     "timestamp": "2021-06-17T12:17:25.447Z",
     "tokens": [
-        {
+ {
             "chainId": 56,
-            "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "asset": "c20000714_t0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
             "type": "BEP20",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "name": "Wrapped BNB",
-            "symbol": "WBNB",
+            "address": "0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b",
+            "name": "BINANCE SMART CHAIN",
+            "symbol": "BNB",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xC7f33652b4eB4d86582b6aB7d935689c8E94C42b/logo.png",
             "pairs": [
                 {
                     "base": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153"
